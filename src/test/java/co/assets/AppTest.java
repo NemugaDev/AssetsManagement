@@ -33,7 +33,7 @@ public class AppTest
     /**
      * Rigourous Test :-)
      */
-    public void testApp()
+    public voiddfs testApp()
     {
     	System.out.println("test send email now");
         assertTrue( true );
