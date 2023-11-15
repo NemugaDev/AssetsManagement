@@ -35,7 +35,7 @@ public class AppTest
      */
     public void testApp()
     {
-    	System.out.println("fixed bug");
+    	System.out.println("test send email now");
         assertTrue( true );
     }
 }
