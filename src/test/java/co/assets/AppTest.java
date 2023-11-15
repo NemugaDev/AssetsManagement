@@ -33,9 +33,9 @@ public class AppTest
     /**
      * Rigourous Test :-)
      */
-    public voiddfs testApp()
+    public void testApp()
     {
-    	System.out.println("test send email now");
+    	System.out.println("should work now");
         assertTrue( true );
     }
 }
