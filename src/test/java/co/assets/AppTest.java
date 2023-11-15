@@ -33,9 +33,9 @@ public class AppTest
     /**
      * Rigourous Test :-)
      */
-    public  testApp()
+    public void testApp()
     {
-    	System.out.println("demo auto start");
+    	System.out.println("fixed bug");
         assertTrue( true );
     }
 }
