@@ -35,7 +35,7 @@ public class AppTest
      */
     public void testApp()
     {
-    	System.out.println("executing well and good");
+    	System.out.println("demo auto start");
         assertTrue( true );
     }
 }
