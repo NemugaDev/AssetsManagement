@@ -33,7 +33,7 @@ public class AppTest
     /**
      * Rigourous Test :-)
      */
-    public void testApp()
+    public  testApp()
     {
     	System.out.println("demo auto start");
         assertTrue( true );
