@@ -1,5 +1,7 @@
 package co.assets;
 
+import java.util.logging.Logger;
+
 import junit.framework.Test;
 import junit.framework.TestCase;
 import junit.framework.TestSuite;
@@ -33,6 +35,7 @@ public class AppTest
      */
     public void testApp()
     {
+    	System.out.println("executing well and good");
         assertTrue( true );
     }
 }
