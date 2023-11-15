@@ -35,8 +35,7 @@ public class AppTest
      */
     public void testApp()
     {
-    	System.out.println("Testing Pipeline");
-    	f
+    	System.out.println("Testing Pipeline fixed");
         assertTrue( true );
     }
 }
