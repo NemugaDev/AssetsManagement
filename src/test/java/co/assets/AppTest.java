@@ -36,6 +36,7 @@ public class AppTest
     public void testApp()
     {
     	System.out.println("Testing Pipeline");
+    	f
         assertTrue( true );
     }
 }
